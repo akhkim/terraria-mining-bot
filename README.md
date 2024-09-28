@@ -5,12 +5,6 @@ The current stage of the bot supports ore classification, but as no cascade clas
 ## Requirements
 - Python 3.8 or greater
 
-### GPU
-GPU execution requires the following NVIDIA libraries to be installed:
-
-- [cuBLAS for CUDA 12](https://developer.nvidia.com/cublas)
-- [cuDNN 8 for CUDA 12](https://developer.nvidia.com/cudnn)
-
 ## Installation
 ```
 git clone https://github.com/akhkim/terraria-mining-bot.git
