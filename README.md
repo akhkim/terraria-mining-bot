@@ -16,4 +16,4 @@ pip install -r requirements.txt
 - Pre-trained cascades
 - Optimizing Memory Usage
 - Classification Accuracy
-- 
+- GPU Implementation 
